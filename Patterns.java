@@ -23,7 +23,7 @@
 // }
 // }
 //reverse Right angle triangle
-public class Triangle {
+public class Patterns {
     public static void main(String[] args){
         int n=4;
         for(int i=n-1;i>=0;i--){
