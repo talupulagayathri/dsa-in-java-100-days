@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-class Prime{//using ArrayList
+class Prime{
 
     public static boolean isPrime(int n) {
         if (n <= 1) {
